@@ -21,6 +21,5 @@ DocManager — мобильное приложение для индивидуа
 
 ![Диаграмма прецедентов](/assets/diagram-precedents.png)
 
-[![Диаграмма состояний приложения](/assets/state-diagram.png)](/usage/advanced/offline/)
 
 [Главная](/main/) | [Добавление документов](/usage/basics/adding-files/)
