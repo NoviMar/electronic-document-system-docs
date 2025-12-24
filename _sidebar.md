@@ -1,11 +1,11 @@
-- [Главная](/README.md)
+- [Главная](/main/)
 
-- [О приложении](/introduction/about.md)
+- [О приложении](/introduction/)
 
 - Использование
   - Основы
-    - [Добавление документов](/usage/basics/adding-files.md)
-    - [Поиск документов](/usage/basics/searching.md)
+    - [Добавление документов](/usage/basics/adding-files/)
+    - [Поиск документов](/usage/basics/searching/)
   - Продвинутые функции
-    - [Работа с тегами](/usage/advanced/tagging.md)
-    - [Оффлайн-режим](/usage/advanced/offline.md)
+    - [Работа с тегами](/usage/advanced/tagging/)
+    - [Оффлайн-режим и синхронизация](/usage/advanced/offline/)
