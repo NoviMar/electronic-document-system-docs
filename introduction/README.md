@@ -19,7 +19,7 @@ DocManager — мобильное приложение для индивидуа
   - Гибкие теги.
   - Просмотр PDF, изображений и т.д.
 
-![Диаграмма прецедентов](/assets/diagram-precedents.png)
+![Диаграмма прецедентов](/../assets/diagram-precedents.png)
 
 
 [Главная](/main/) | [Добавление документов](/usage/basics/adding-files/)
