@@ -41,6 +41,6 @@
 - Быстрая смена статуса (перетащить с «Не оплачено» на «Оплачено`).
 - Легко находить связи между документами.
 
-[![Пример цветных тегов в списке](/assets/tags-list.png)](/usage/advanced/offline/)
+[![Пример цветных тегов в списке](../../../assets/tags-list.png)](/usage/advanced/offline/)
 
 [Назад: поиск](/usage/basics/searching/) | [Далее: оффлайн-режим](/usage/advanced/offline/)
